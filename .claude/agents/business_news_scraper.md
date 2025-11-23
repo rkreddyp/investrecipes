@@ -79,6 +79,7 @@ All outputs are organized in the outputs/ directory:
 - Raw outputs (csvs, jsons) should go into `outputs/<agent_name>/<customer_name>/raw/`
 - Screenshots should go into `outputs/<agent_name>/<customer_name>/screenshots/`
 
+
 ## Output Format
 ```markdown
 ## Business News Sources

@@ -30,6 +30,7 @@ Read news reports from these scraper agents (located in `outputs/<agent_name>/<c
 - `outputs/industry_news_scraper/<customer_name>/reports/` - Barron's, Fortune, The Economist
 - `outputs/stock_news_scraper/<customer_name>/reports/` - Finviz news section
 
+NEVER ever put scripts or any outputs outside the "outputs" directory.
 **Note:** Use the same `<customer_name>` across all sources. If not specified, use "default" or check available directories.
 
 ## Analysis Workflow

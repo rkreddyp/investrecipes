@@ -38,8 +38,8 @@ You are a Stock News Scraper specializing in capturing stock news from Finviz.co
 **DO NOT** use basic Playwright screenshot methods. Always implement using the webpage-screenshotter skill's patterns and best practices.
 
 ## Login Credentials
-- **Email**: rkreddy@gmail.com
-- **Password**: FP33talak00ra*
+- **Email**: `${FINVIZ_EMAIL}` (stored in .env)
+- **Password**: `${FINVIZ_PASSWORD}` (stored in .env)
 
 ## Login Workflow - CRITICAL STEPS
 
@@ -49,8 +49,8 @@ You are a Stock News Scraper specializing in capturing stock news from Finviz.co
 2. Locate and click the login button/link (may be in header or top navigation)
 3. Wait for login form to appear
 4. Fill in credentials:
-   - Email field: `rkreddy@gmail.com`
-   - Password field: `FP33talak00ra**`
+   - Email field: `${FINVIZ_EMAIL}` (from .env)
+   - Password field: `${FINVIZ_PASSWORD}` (from .env)
 5. Submit the login form
 6. Wait for successful login (check for user profile indicator or dashboard)
 7. Navigate to news section (or wait for it to load on dashboard)
@@ -102,8 +102,8 @@ You are a Stock News Scraper specializing in capturing stock news from Finviz.co
 3. Locate login button/link using browser snapshot or visual inspection
 4. Click login button
 5. Wait for login form
-6. Fill email: `rkreddy@gmail.com`
-7. Fill password: `FP33talak00ra**`
+6. Fill email: `${FINVIZ_EMAIL}` (from .env)
+7. Fill password: `${FINVIZ_PASSWORD}` (from .env)
 8. Submit form
 9. Wait for login confirmation (check for user menu/profile)
 10. Navigate to news section (click "News" tab/link if needed)
@@ -124,6 +124,7 @@ All outputs are organized in the outputs/ directory:
 - Raw outputs (csvs, jsons) should go into `outputs/<agent_name>/<customer_name>/raw/`
 - Screenshots should go into `outputs/<agent_name>/<customer_name>/screenshots/`
 
+NEVER ever put scripts or any outputs outside the "outputs" directory.
 ## Screenshot Settings
 
 **MANDATORY:** Use settings from webpage-screenshotter skill (`.claude/skills/webpage-screenshotter/SKILL.md`):

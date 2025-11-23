@@ -111,6 +111,7 @@ All outputs are organized in the outputs/ directory:
 - Raw outputs (csvs, jsons) should go into `outputs/tech_researcher/<customer_name>/raw/`
 - Screenshots should go into `outputs/tech_researcher/<customer_name>/screenshots/`
 
+NEVER ever put scripts or any outputs outside the "outputs" directory.
 ## Output Format
 Return ONLY the technology industry research in this format:
 
