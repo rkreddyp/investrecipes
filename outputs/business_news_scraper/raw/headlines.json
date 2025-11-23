@@ -1,0 +1,115 @@
+{
+  "wsj": [],
+  "businessInsider": [
+    {
+      "headline": "Marriott says Sonder tried to use guest safety as 'bargaining chip' in last-minute plea for cash",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/marriott-sonder-guest-safety-bargaining-chip-bankruptcy-2025-11"
+    },
+    {
+      "headline": "Novak Djokovic is winning titles at 38. He credits his longevity to 3 simple things.",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/changes-novak-djokovic-tennis-longevity-diet-sleep-emotional-health-2025-11"
+    },
+    {
+      "headline": "The Great Freeze is almost as bad as the aftermath of the Great Recession if you're looking for a job",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/cant-find-job-labor-market-hiring-great-recession-2025-11"
+    },
+    {
+      "headline": "Meet the new media startups that couldn’t care less about Google",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/media-startups-post-google-zero-search-traffic-2025-11"
+    },
+    {
+      "headline": "Another Nvidia investor bails out: Peter Thiel's hedge fund",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/peter-thiel-fund-nvidia-stake-sell-softbank-macro-ai-bubble-2025-11"
+    },
+    {
+      "headline": "'Big Short' investor warns of an AI bubble using a 'Lord of the Rings' meme",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-ai-tech-bubble-capital-expenditures-lotr-2025-11"
+    },
+    {
+      "headline": "You can now buy a certified pre-owned Ford on Amazon",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/ford-certified0pre-owned-amazon-autos-2025-11"
+    },
+    {
+      "headline": "Legendary investor Jeffrey Gundlach says 'garbage lending' means the next crisis will be in private markets",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/financial-crisis-prediction-private-credit-jeffrey-gundlach-economy-2008-subprime-2025-11"
+    },
+    {
+      "headline": "Gen Z is bringing back one of the most divisive dining trends of the 2010s",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/gen-z-dining-trends-communal-table-restaurants-2025-11"
+    },
+    {
+      "headline": "Customers are turning the tables on call centers with their own robot voices",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/scammed-internet-provider-lower-my-bill-deepfakes-ai-2025-11"
+    },
+    {
+      "headline": "Mamdani is promising free childcare in NYC. Here's how New Mexico did it — and gave caregivers a raise in the process.",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/zohran-mamdani-universal-childcare-new-mexico-2025-11"
+    },
+    {
+      "headline": "Pro-union flyers appear in Starbucks headquarters as some corporate staff quietly support barista strikes",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/pro-labor-flyers-starbucks-corporate-headquarters-unionized-barista-strike-2025-11"
+    },
+    {
+      "headline": "I was a child star, but at 15 I wanted a normal life. I now run a talent agency that generates $4 million in revenue.",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/tatiana-bolanos-traded-fame-for-freedom-as-a-teen-2025-11"
+    },
+    {
+      "headline": "I'm the CEO of CorePower Yoga. Here's a day in my life, which includes body scans, meditation, and mushroom tea.",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/day-in-the-life-corepower-yoga-ceo-2025-11"
+    },
+    {
+      "headline": "79-year-old competitive powerlifter shares his 15-minute core morning workout routine for fitness and longevity",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/79-year-old-powerlifter-shares-15-minute-morning-core-workout-2025-11"
+    },
+    {
+      "headline": "I'm the cofounder and CEO of a THC drink company. Congress's hemp crackdown should be a wake-up call for the industry.",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/thc-drink-cann-ceo-reaction-hemp-restrictions-congress-2025-11"
+    },
+    {
+      "headline": "How laid-off Amazon workers are coping with the shock and planning their next career moves",
+      "date": "2025-11",
+      "summary": "",
+      "url": "https://www.businessinsider.com/laid-off-amazon-employees-share-what-happened-tech-job-market-2025-11"
+    }
+  ],
+  "forbes": [],
+  "scrapedAt": "2025-11-17T17:35:48.896Z",
+  "summary": {
+    "wsjCount": 0,
+    "businessInsiderCount": 17,
+    "forbesCount": 0,
+    "total": 17
+  }
+}

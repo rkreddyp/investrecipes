@@ -1,0 +1,23 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "maxTokens": 8192,
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "MultiEdit",
+      "Write",
+      "Bash",
+      "Glob",
+      "Grep",
+      "LS",
+      "WebFetch",
+      "WebSearch",
+      "Task",
+      "TodoRead",
+      "TodoWrite"
+    ]
+  }
+}
+
+

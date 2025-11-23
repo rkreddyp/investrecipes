@@ -1,0 +1,117 @@
+Starting business news scraping...
+
+Scraping Business Insider...
+{
+  "businessInsider": [
+    {
+      "headline": "Sonder had years of red flags before Marriott made a deal — and travelers got left in the lurch",
+      "url": "https://www.businessinsider.com/sonder-marriott-deal-bankruptcy-red-flags-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Nvidia crushed its quarter—and CEO Jensen Huang said in a leaked all-hands that 'the market did not appreciate it'",
+      "url": "https://www.businessinsider.com/jensen-huang-market-nvidia-quarter-meeting-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Bored of Google? Here are the smartest ways to search the web.",
+      "url": "https://www.businessinsider.com/google-search-engine-alternatives-reddit-tiktok-ai-chatbots-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "The stock market just had its best-case scenario revived",
+      "url": "https://www.businessinsider.com/stock-market-today-sp500-fed-rate-cut-december-outlook-selloff-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Feeling way busier at work this year? You're not alone.",
+      "url": "https://www.businessinsider.com/employees-workload-increasing-ai-workslop-ey-work-reimagined-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "A plane fire that sent 8 people to the hospital shows why airlines are taking battery safety so seriously",
+      "url": "https://www.businessinsider.com/battery-fire-airlines-aviation-safety-power-banks-sas-faa-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Rich people have trillions of dollars they want to give to hedge funds",
+      "url": "https://www.businessinsider.com/private-wealth-hedge-funds-fundraising-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Western soldiers are turning to Xbox controllers to fight a new kind of drone war. The pilots love them.",
+      "url": "https://www.businessinsider.com/western-soldiers-use-xbox-controllers-interceptor-drones-pilots-love-them-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Where software engineers can live well and earn big",
+      "url": "https://www.businessinsider.com/best-cities-ranked-software-engineers-pay-cost-of-living-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "From gingerbread lattes to cranberry white mochas: What Starbucks' global holiday flavor lab says about its turnaround effort",
+      "url": "https://www.businessinsider.com/starbucks-holiday-drinks-seasonal-flavors-around-the-world-turnaround-campaign-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Sam Altman's eye-scanning Orb startup told workers not to care about anything outside work",
+      "url": "https://www.businessinsider.com/sam-altman-tools-for-humanity-startup-culture-hardcore-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Tesla's robotaxi clears a key hurdle in Nevada",
+      "url": "https://www.businessinsider.com/tesla-robotaxi-dmv-approval-nevada-autonomous-cars-self-certification-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "Bobbi Brown shares the aftermath of leaving her brand: 'My neighbors came over and I drank tequila with them.'",
+      "url": "https://www.businessinsider.com/bobbi-brown-shares-exit-namesake-brand-aftermath-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I visited Meta's NYC pop-up. It felt like a mix of an Apple store and Warby Parker, with no expense spared.",
+      "url": "https://www.businessinsider.com/meta-lab-nyc-store-pop-up-ray-ban-display-demo-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I spent a week in Bali with 70 singles. I didn't fall in love, but I discovered something I didn't know I needed.",
+      "url": "https://www.businessinsider.com/singles-trip-bali-south-asian-love-desi-love-island-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I fly to visit my in-laws in Florida once or twice a year. One change has made our family's trips wildly easier.",
+      "url": "https://www.businessinsider.com/travel-tip-visiting-in-laws-easier-plane-packing-hack-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "One of Gen Z's habits is an 'existential threat' to restaurants, says Michelin-starred chef David Chang",
+      "url": "https://www.businessinsider.com/gen-z-non-alcohol-threaten-restaurants-david-chang-michelin-chef-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I broke into AI using a 3-step playbook that helped me land a Big Tech job. I feel like I'm future-proofing my career.",
+      "url": "https://www.businessinsider.com/break-into-ai-microsoft-job-key-steps-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I got laid off and became a stay-at-home dad. My wife's request for a bagel helped me figure out what I wanted to do next.",
+      "url": "https://www.businessinsider.com/laid-off-stay-at-home-dad-bake-bagels-kickstarter-florida-2025-11",
+      "source": "Business Insider"
+    },
+    {
+      "headline": "I've been on over 20 cruises. These 5 unconventional tips make my vacations more enjoyable.",
+      "url": "https://www.businessinsider.com/unique-tips-for-cruises-advice-from-frequent-traveler",
+      "source": "Business Insider"
+    }
+  ]
+}
+
+Scraping Forbes...
+{
+  "forbes": []
+}
+
+Scraping Wall Street Journal...
+{
+  "wsj": []
+}

@@ -1,0 +1,181 @@
+{
+  "report_metadata": {
+    "generated_date": "2025-11-20T13:35:00Z",
+    "sources_analyzed": [
+      "Business Insider",
+      "Forbes",
+      "Finviz News"
+    ],
+    "total_headlines": 140,
+    "news_period": "2025-11-14 to 2025-11-20"
+  },
+  "key_insights": {
+    "market": [
+      {
+        "insight": "Market volatility driven by Fed signals and AI uncertainty",
+        "confidence": "high",
+        "sources_count": 2
+      },
+      {
+        "insight": "Potential rally formation despite recent sell-off",
+        "confidence": "medium",
+        "sources_count": 1
+      },
+      {
+        "insight": "High-profile investor engagement with political-business nexus",
+        "confidence": "high",
+        "sources_count": 3
+      }
+    ],
+    "economy": [
+      {
+        "insight": "Escalating inflationary pressures forcing business price adjustments",
+        "confidence": "high",
+        "sources_count": 1
+      },
+      {
+        "insight": "Trade deficit improvement amid tariff implementation",
+        "confidence": "medium",
+        "sources_count": 1
+      },
+      {
+        "insight": "Critical economic data gap complicating Fed policy",
+        "confidence": "high",
+        "sources_count": 1
+      },
+      {
+        "insight": "Labor market competitiveness challenges in specialized sectors",
+        "confidence": "high",
+        "sources_count": 1
+      },
+      {
+        "insight": "AI sector credit risk and potential systemic implications",
+        "confidence": "high",
+        "sources_count": 2
+      }
+    ],
+    "stock_market": [
+      {
+        "insight": "Nvidia earnings as market bellwether",
+        "confidence": "high",
+        "sources_count": 2
+      },
+      {
+        "insight": "AI bubble debate intensifies with conflicting perspectives",
+        "confidence": "high",
+        "sources_count": 3
+      },
+      {
+        "insight": "Retail sector struggles heading into critical holiday period",
+        "confidence": "medium-high",
+        "sources_count": 1
+      }
+    ]
+  },
+  "sector_analysis": {
+    "technology": {
+      "sentiment": "mixed",
+      "key_theme": "AI dominance with bubble concerns",
+      "major_events": [
+        "Nvidia Q3 earnings anticipation",
+        "Microsoft business model rethinking for AI era",
+        "Larry Summers resignation from OpenAI board"
+      ]
+    },
+    "healthcare_biotech": {
+      "sentiment": "positive",
+      "key_theme": "AI integration and deal activity",
+      "major_events": [
+        "AI-powered cancer drugs driving share rallies",
+        "Eli Lilly partnerships creating new billionaires",
+        "$52M healthcare AI startup funding"
+      ]
+    },
+    "automotive": {
+      "sentiment": "cautious",
+      "key_theme": "Regulatory challenges",
+      "major_events": [
+        "Tesla Cybercab legal issues"
+      ]
+    },
+    "financial_services": {
+      "sentiment": "positive",
+      "key_theme": "Fintech expansion and international IPO activity",
+      "major_events": [
+        "Wealthfront entering mortgage market",
+        "Indian broker IPO boom",
+        "Tower Research aggressive quant recruitment"
+      ]
+    },
+    "retail": {
+      "sentiment": "negative",
+      "key_theme": "Holiday season challenges",
+      "major_events": [
+        "Target earnings disappointment"
+      ]
+    }
+  },
+  "cross_cutting_themes": [
+    {
+      "theme": "AI Dichotomy: Infrastructure Revolution vs. Speculative Bubble",
+      "impact": "critical",
+      "categories": ["market", "economy", "stock_market"]
+    },
+    {
+      "theme": "Inflation's Persistent Pressure",
+      "impact": "high",
+      "categories": ["economy", "market"]
+    },
+    {
+      "theme": "Geopolitical-Economic Integration",
+      "impact": "medium",
+      "categories": ["market", "economy"]
+    },
+    {
+      "theme": "Regulatory Challenges to Innovation",
+      "impact": "medium",
+      "categories": ["stock_market"]
+    },
+    {
+      "theme": "Digital Transformation of Traditional Industries",
+      "impact": "high",
+      "categories": ["stock_market", "economy"]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "AI Bubble Risk Assessment",
+      "perspectives": [
+        "Trillion-dollar borrowing could spark credit crunch",
+        "AI infrastructure has genuine value unlike past bubbles",
+        "AOC warns of 2008-style threats",
+        "Bubble arguments are wrong due to GPU value retention"
+      ],
+      "resolution": "unresolved"
+    },
+    {
+      "issue": "Inflation Trajectory",
+      "perspectives": [
+        "Small businesses planning price hikes suggests acceleration",
+        "Trade deficit improvement could indicate demand weakening"
+      ],
+      "resolution": "unresolved"
+    },
+    {
+      "issue": "Market Direction",
+      "perspectives": [
+        "Technical indicators suggest rally potential",
+        "Fundamental concerns support continued volatility"
+      ],
+      "resolution": "unresolved"
+    }
+  ],
+  "data_quality": {
+    "wsj_access": "blocked",
+    "business_insider": "full_access",
+    "forbes": "full_access",
+    "finviz": "screenshot_analysis",
+    "date_completeness": "partial",
+    "article_depth": "headlines_and_summaries"
+  }
+}

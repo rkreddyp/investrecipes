@@ -1,0 +1,139 @@
+================================================================================
+APPLE (AAPL) NEWS SUMMARY - Finviz.com
+Generated: 2025-11-17T14:46:02.871388
+================================================================================
+
+Ticker: AAPL
+Page Title: Stock Market News & Blogs
+Source URL: https://finviz.com/news.ashx
+Total News Items Captured: 20
+
+--------------------------------------------------------------------------------
+LATEST NEWS HEADLINES
+--------------------------------------------------------------------------------
+
+[1] Home
+	
+News
+	
+Screener
+	
+Maps
+	
+Groups
+	
+Portfolio
+	
+Insider
+	
+Futures
+	
+Forex
+	
+Crypto
+	
+Calendar
+	
+Backtests
+	
+Pricing
+	
+Mon NOV 17 2025 2:45 PM ET
+	
+Theme
+Help
+	
+Login
+	
+Register
+    Link: https://finviz.com/
+
+[2] News		
+Blogs
+
+View by
+
+ Time Source
+    Link: https://finviz.com/news.ashx
+
+[3] 02:44PM	Dow falls 500 points, dragged down by Nvidia, tech shares
+
+	02:38PM	S&P 500’s Slide Deepens in Run-Up to Nvidia, Jobs: Markets Wrap
+
+	02:25PM	Stock Market Today: Indexes Pull Back; Berkshire Stake-Buying Lifts Alphabet
+
+	02:23PM	The S&P 500’s next addition could be this red-hot tech stock
+
+	02:12PM	Stocks fall in afternoon trading ahead of Nvidia’s midweek earnings
+	01:49PM	
+Loading…
+
+	01:49PM	Senior Managers Depart BMO Capital Markets as Firm Pushes Reorganization
+
+	01:45PM	Steve Forbes
+    Link: https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html
+
+[4] 02:44PM	Dow falls 500 points, dragged down by Nvidia, tech shares
+    Link: https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html
+
+[5] 02:38PM	S&P 500’s Slide Deepens in Run-Up to Nvidia, Jobs: Markets Wrap
+    Link: https://www.bloomberg.com/news/articles/2025-11-16/asia-set-for-sluggish-open-ahead-of-delayed-data-markets-wrap
+
+[6] 02:25PM	Stock Market Today: Indexes Pull Back; Berkshire Stake-Buying Lifts Alphabet
+    Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-17-2025
+
+[7] 02:23PM	The S&P 500’s next addition could be this red-hot tech stock
+    Link: https://www.marketwatch.com/bulletins/redirect/go?g=2d706eb3-2d92-4ac5-8011-374b911b8798&mod=mw_rss_bulletins
+
+[8] 02:12PM	Stocks fall in afternoon trading ahead of Nvidia’s midweek earnings
+    Link: https://www.marketwatch.com/livecoverage/dow-s-p-500-and-nasdaq-poised-for-gains-led-by-tech-with-nvidia-earnings-data-reboot-in-focus
+
+[9] 01:49PM	Senior Managers Depart BMO Capital Markets as Firm Pushes Reorganization
+    Link: https://www.bloomberg.com/news/articles/2025-11-17/senior-managers-depart-bmo-capital-markets-as-firm-pushes-reorg
+
+[10] 01:45PM	Steve Forbes slams rent control as 'power grab,' weighs in on Trump tariffs
+    Link: https://www.foxbusiness.com/video/6385215497112
+
+[11] 01:44PM	U.S. Investigators Probe Exec Facing Fraud Allegations From BlackRock’s HPS
+    Link: https://www.wsj.com/finance/u-s-investigators-probe-exec-facing-fraud-allegations-from-blackrocks-hps-bade90db?mod=rss_markets_main
+
+[12] 01:34PM	Bitcoin's slide continues with 'self-fulfilling prophecy' in focus
+    Link: https://finance.yahoo.com/news/bitcoin-price-under-pressure-slips-below-93000-as-self-fulfilling-prophecy-puts-4-year-cycle-in-focus-184650240.html
+
+[13] 01:34PM	Stocks slide as Wall Street looks ahead to Nvidia, jobs data
+    Link: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-slip-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944503.html
+
+[14] 01:31PM	US Treasuries Edge Higher Amid Guarded Rate-Cut Optimism
+    Link: https://www.bloomberg.com/news/articles/2025-11-17/us-treasuries-edge-higher-amid-guarded-rate-cut-optimism
+
+[15] 01:15PM	Beloved steakhouse chain is making a comeback
+    Link: https://foxbusiness.com/lifestyle/beloved-steakhouse-chain-making-comeback
+
+[16] 01:15PM	Former stock trader reveals what is outpacing 'garbage stocks' amid rotation
+    Link: https://www.foxbusiness.com/video/6385124897112
+
+[17] 01:11PM	France investigating Vinted over alleged links to pornographic content
+    Link: https://www.bbc.com/news/articles/cr5eygg0l85o?at_medium=RSS&at_campaign=rss
+
+[18] 12:57PM	Tips from the 'market wizard' on playing to win
+    Link: https://www.marketwatch.com/bulletins/redirect/go?g=615e5108-4870-4e81-9add-fa5c34cdd1ce&mod=mw_rss_bulletins
+
+[19] 12:52PM	Stifel sees S&P 500 falling 5% to 6,350
+    Link: https://www.reuters.com/business/stifel-sees-sp-500-falling-5-6350-2025-11-17/
+
+[20] 12:49PM	All SNAP recipients required to reapply as Trump admin cracks down on fraud: 'Business as usual is over'
+    Link: https://foxbusiness.com/politics/all-snap-recipients-required-reapply-trump-admin-cracks-down-fraud-business-usual-over
+
+================================================================================
+GENERATED FILES
+================================================================================
+- Screenshots: /Users/venkat/workfolder/playwright-min/outputs/stock_news_scraper/apple/screenshots/
+- Raw JSON Data: /Users/venkat/workfolder/playwright-min/outputs/stock_news_scraper/apple/raw/aapl_news_data.json
+- Summary Report: /Users/venkat/workfolder/playwright-min/outputs/stock_news_scraper/apple/AAPL_NEWS_SUMMARY.txt
+
+Screenshots captured:
+  01_aapl_quote_page.png - Initial AAPL quote page
+  02_aapl_news_tab.png - AAPL news tab section
+  03_news_scroll_1.png - News section (scrolled)
+  03_news_scroll_2.png - News section (scrolled more)
+  03_news_scroll_3.png - News section (scrolled further)

@@ -1,0 +1,110 @@
+Scraping Forbes...
+{
+  "forbes": [
+    {
+      "headline": "America's 2025 Top Wealth Management Teams Private Wealth List  | Paid Program",
+      "url": "https://www.forbes.com/lists/top-wealth-management-teams-private-wealth/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "America's 2025 Top Wealth Management Teams High Net Worth List",
+      "url": "https://www.forbes.com/lists/top-wealth-management-teams-high-net-worth/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "When Teens Fundraise To End Blood Cancer, They Change Lives, Including Their Own | Paid Program",
+      "url": "https://www.forbes.com/sites/bloodcancerunited/2025/11/19/when-teens-fundraise-to-end-blood-cancer-they-change-lives-including-their-own/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "The Employee Well-Being Imperative | Paid Program",
+      "url": "https://www.forbes.com/sites/american-heart-association/2025/10/22/the-employee-well-being-imperative/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Best-In-State Top Next-Gen Wealth Advisors 2025",
+      "url": "https://www.forbes.com/lists/best-in-state-next-gen-advisors/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "AI’s Nuanced Impact And A Quest To Quantify It",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Visa Infinite Asia Pacific: Getting Away, Their Own Way | Paid Program",
+      "url": "https://www.forbes.com/sites/visa-infinite-asia-pacific/2025/09/15/getting-away-their-own-way/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Embracing And Bracing For AI",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Facing A Volatile Market, C-Suites Look To The CFO For Strategic Guidance",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Your Four-Part Blueprint To Unlock AI Value In 2025 | Paid Program",
+      "url": "https://www.forbes.com/sites/avanade/2025/02/05/your-four-part-blueprint-to-unlock-ai-value-in-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Next Billion-Dollar Startups 2025",
+      "url": "https://www.forbes.com/sites/amyfeldman/2025/08/12/next-billion-dollar-startups-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Four Reasons To Rethink Your Savings Strategy",
+      "url": "https://www.forbes.com/sites/insights-synchrony-bank/2025/10/13/four-reasons-to-rethink-your-savings-strategy/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Meet The Young Tech Trailblazers Building a New Future for Language, Learning and Medicine",
+      "url": "https://www.forbes.com/sites/bellasayegh/2025/10/20/meet-the-young-tech-trailblazers-building-a-new-future-for-language-learning-and-medicine/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "America's Most Powerful Women In Sports",
+      "url": "https://www.forbes.com/sites/maggiemcgrath/2025/10/22/americas-most-powerful-women-in-sports-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Navigating Retirement In Today’s Economic Landscape",
+      "url": "https://www.forbes.com/video/b45397ed-a6eb-44dd-b00b-47e1ad5e2913/navigating-retirement-in-todays-economic-landscape/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Get Your Data AI-Ready | Paid Program",
+      "url": "https://www.forbes.com/sites/hewlettpackardenterprise/2025/07/01/get-your-data-ai-ready/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Streamline, Secure, Innovate: Inside Three Organizations That Rewired Their Networks For What’s Next | Paid Program",
+      "url": "https://www.forbes.com/sites/hewlettpackardenterprise/2025/09/12/streamline-secure-innovate-inside-three-organizations-that-rewired-their-networks-for-whats-next/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "CxO Spotlight: Innovation in Healthcare",
+      "url": "https://www.forbes.com/video/3324a35d-ff67-4d23-b193-9200c5e962bf/wellthy-ceo-why-caregiving-support-is-a-business-imperative/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "America's Richest Self-Made Women",
+      "url": "https://www.forbes.com/self-made-women/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Employee and Customer Experience",
+      "url": "https://www.forbes.com/topics/employee-and-customer-experience/",
+      "source": "Forbes"
+    }
+  ]
+}
+
+Scraping Wall Street Journal...
+{
+  "wsj": []
+}

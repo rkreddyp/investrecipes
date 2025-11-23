@@ -1,0 +1,108 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2025-11-17T14:46:02.871388",
+  "news_items": [
+    {
+      "index": 1,
+      "content": "Home\n\t\nNews\n\t\nScreener\n\t\nMaps\n\t\nGroups\n\t\nPortfolio\n\t\nInsider\n\t\nFutures\n\t\nForex\n\t\nCrypto\n\t\nCalendar\n\t\nBacktests\n\t\nPricing\n\t\nMon NOV 17 2025 2:45 PM ET\n\t\nTheme\nHelp\n\t\nLogin\n\t\nRegister",
+      "link": "https://finviz.com/"
+    },
+    {
+      "index": 2,
+      "content": "News\t\t\nBlogs\n\nView by\n\n Time Source",
+      "link": "https://finviz.com/news.ashx"
+    },
+    {
+      "index": 3,
+      "content": "02:44PM\tDow falls 500 points, dragged down by Nvidia, tech shares\n\n\t02:38PM\tS&P 500\u2019s Slide Deepens in Run-Up to Nvidia, Jobs: Markets Wrap\n\n\t02:25PM\tStock Market Today: Indexes Pull Back; Berkshire Stake-Buying Lifts Alphabet\n\n\t02:23PM\tThe S&P 500\u2019s next addition could be this red-hot tech stock\n\n\t02:12PM\tStocks fall in afternoon trading ahead of Nvidia\u2019s midweek earnings\n\t01:49PM\t\nLoading\u2026\n\n\t01:49PM\tSenior Managers Depart BMO Capital Markets as Firm Pushes Reorganization\n\n\t01:45PM\tSteve Forbes",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html"
+    },
+    {
+      "index": 4,
+      "content": "02:44PM\tDow falls 500 points, dragged down by Nvidia, tech shares",
+      "link": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html"
+    },
+    {
+      "index": 5,
+      "content": "02:38PM\tS&P 500\u2019s Slide Deepens in Run-Up to Nvidia, Jobs: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-16/asia-set-for-sluggish-open-ahead-of-delayed-data-markets-wrap"
+    },
+    {
+      "index": 6,
+      "content": "02:25PM\tStock Market Today: Indexes Pull Back; Berkshire Stake-Buying Lifts Alphabet",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-17-2025"
+    },
+    {
+      "index": 7,
+      "content": "02:23PM\tThe S&P 500\u2019s next addition could be this red-hot tech stock",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2d706eb3-2d92-4ac5-8011-374b911b8798&mod=mw_rss_bulletins"
+    },
+    {
+      "index": 8,
+      "content": "02:12PM\tStocks fall in afternoon trading ahead of Nvidia\u2019s midweek earnings",
+      "link": "https://www.marketwatch.com/livecoverage/dow-s-p-500-and-nasdaq-poised-for-gains-led-by-tech-with-nvidia-earnings-data-reboot-in-focus"
+    },
+    {
+      "index": 9,
+      "content": "01:49PM\tSenior Managers Depart BMO Capital Markets as Firm Pushes Reorganization",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-17/senior-managers-depart-bmo-capital-markets-as-firm-pushes-reorg"
+    },
+    {
+      "index": 10,
+      "content": "01:45PM\tSteve Forbes slams rent control as 'power grab,' weighs in on Trump tariffs",
+      "link": "https://www.foxbusiness.com/video/6385215497112"
+    },
+    {
+      "index": 11,
+      "content": "01:44PM\tU.S. Investigators Probe Exec Facing Fraud Allegations From BlackRock\u2019s HPS",
+      "link": "https://www.wsj.com/finance/u-s-investigators-probe-exec-facing-fraud-allegations-from-blackrocks-hps-bade90db?mod=rss_markets_main"
+    },
+    {
+      "index": 12,
+      "content": "01:34PM\tBitcoin's slide continues with 'self-fulfilling prophecy' in focus",
+      "link": "https://finance.yahoo.com/news/bitcoin-price-under-pressure-slips-below-93000-as-self-fulfilling-prophecy-puts-4-year-cycle-in-focus-184650240.html"
+    },
+    {
+      "index": 13,
+      "content": "01:34PM\tStocks slide as Wall Street looks ahead to Nvidia, jobs data",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-slip-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944503.html"
+    },
+    {
+      "index": 14,
+      "content": "01:31PM\tUS Treasuries Edge Higher Amid Guarded Rate-Cut Optimism",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-17/us-treasuries-edge-higher-amid-guarded-rate-cut-optimism"
+    },
+    {
+      "index": 15,
+      "content": "01:15PM\tBeloved steakhouse chain is making a comeback",
+      "link": "https://foxbusiness.com/lifestyle/beloved-steakhouse-chain-making-comeback"
+    },
+    {
+      "index": 16,
+      "content": "01:15PM\tFormer stock trader reveals what is outpacing 'garbage stocks' amid rotation",
+      "link": "https://www.foxbusiness.com/video/6385124897112"
+    },
+    {
+      "index": 17,
+      "content": "01:11PM\tFrance investigating Vinted over alleged links to pornographic content",
+      "link": "https://www.bbc.com/news/articles/cr5eygg0l85o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 18,
+      "content": "12:57PM\tTips from the 'market wizard' on playing to win",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=615e5108-4870-4e81-9add-fa5c34cdd1ce&mod=mw_rss_bulletins"
+    },
+    {
+      "index": 19,
+      "content": "12:52PM\tStifel sees S&P 500 falling 5% to 6,350",
+      "link": "https://www.reuters.com/business/stifel-sees-sp-500-falling-5-6350-2025-11-17/"
+    },
+    {
+      "index": 20,
+      "content": "12:49PM\tAll SNAP recipients required to reapply as Trump admin cracks down on fraud: 'Business as usual is over'",
+      "link": "https://foxbusiness.com/politics/all-snap-recipients-required-reapply-trump-admin-cracks-down-fraud-business-usual-over"
+    }
+  ],
+  "page_title": "Stock Market News & Blogs",
+  "source_url": "https://finviz.com/news.ashx"
+}

@@ -1,0 +1,211 @@
+Scraping Forbes Money section...
+{
+  "forbesMoney": [
+    {
+      "headline": "Four Reasons To Rethink Your Savings Strategy",
+      "url": "https://www.forbes.com/sites/insights-synchrony-bank/2025/10/13/four-reasons-to-rethink-your-savings-strategy/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Meet The Young Tech Trailblazers Building a New Future for Language, Learning and Medicine",
+      "url": "https://www.forbes.com/sites/bellasayegh/2025/10/20/meet-the-young-tech-trailblazers-building-a-new-future-for-language-learning-and-medicine/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Northern Lights Forecast: Here’s You Could See Northern Lights Thursday",
+      "url": "http://www.forbes.com/sites/zacharyfolk/2025/11/20/northern-lights-forecast-heres-you-could-see-northern-lights-thursday/?ctpv=notifications-breakingnews",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Trump’s History With Jeffrey Epstein: Here’s The Full Timeline",
+      "url": "http://www.forbes.com/sites/saradorn/2025/11/20/trumps-history-with-jeffrey-epstein-heres-the-full-timeline/?ctpv=notifications-dailycoverstory",
+      "source": "Forbes"
+    },
+    {
+      "headline": "The Big Changes To  ACA Premiums At The Heart Of The Government Shutdown",
+      "url": "https://www.forbes.com/sites/kellyphillipserb/2025/10/29/the-big-changes-to--aca-premiums-at-the-heart-of-the-government-shutdown/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Can Prime Minister Sanae Takaichi Save Japan From An Economic Crisis?",
+      "url": "https://www.forbes.com/sites/steveforbes/2025/10/28/can-prime-minister-sanae-takaichi-save-japan-from-an-economic-crisis/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Forget Market Technicals, Trump Trades Are Almost A Sure Thing",
+      "url": "https://www.forbes.com/sites/brandonkochkodin/2025/10/27/forget-market-technicals-trump-trades-are-almost-a-sure-thing/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Top Social Security Tax Rising 4.8% In 2026, As Benefits Creep Up 2.8%",
+      "url": "https://www.forbes.com/sites/janetnovack/2025/10/24/top-social-security-tax-rising-48-in-2026-as-benefits-creep-up-28/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Inside Ripple’s $180 Billion Reinvention",
+      "url": "https://www.forbes.com/sites/ninabambysheva/2025/10/28/inside-ripples-180-billion-reinvention/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "An AI Boom Is Catapulting Markets And Raising Fears A Bubble Is Near",
+      "url": "https://www.forbes.com/sites/jeffreymarcus/2025/10/28/ai-boom-or-ai-bubble/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Billionaire Kwek Leng Beng’s CDL Sells 84% Of  Residential Towers Amid Singapore Property Boom",
+      "url": "https://www.forbes.com/sites/jonathanburgos/2025/10/27/billionaire-kwek-leng-bengs-cdl-sells-84-of--residential-towers-amid-singapore-property-boom/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "From Signature Training To CNN Diets: How A Merrill Advisor Manages $300 Million For First Generation Wealth Creators",
+      "url": "https://www.forbes.com/sites/sergeiklebnikov/2025/10/24/from-signature-training-to-cnn-diets-how-a-merrill-advisor-manages-300-million-for-first-generation-black-wealth-creators/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Grindr Shares Soar As Billionaire Owner’s Buyout Offer Values Dating App At $3.5 Billion",
+      "url": "https://www.forbes.com/sites/jonathanburgos/2025/10/24/grindr-shares-soar-as-majority-shareholders-buyout-offer-values-dating-app-at-35-billion/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "AI Unwind, Crypto Crash, And Fed Signals Fuel Market Turmoil",
+      "url": "https://www.forbes.com/sites/jjkinahan/2025/11/21/ai-unwind-crypto-crash-and-fed-signals-fuel-market-turmoil/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "What’s Happening With IONQ Stock?",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/11/21/whats-happening-with-ionq-stock/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Holiday Shopping Trends: Online Growth, Safety Tips, And How To Avoid Scams",
+      "url": "https://www.forbes.com/sites/steveweisman/2025/11/21/holiday-shopping-trends-online-growth-safety-tips-and-how-to-avoid-scams/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "What's The Downside Risk For RKLB Stock?",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/11/21/whats-the-downside-risk-for-rklb-stock/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "What's Happening With BMNR Stock?",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/11/21/whats-happening-with-bmnr-stock/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "As AMD Stock Crashes, Should You Buy More?",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/11/21/as-amd-stock-crashes-should-you-buy-more/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Inside The Bitcoin Meltdown: How Two Big Institutions Triggered The Crash",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/11/21/inside-the-bitcoin-meltdown-how-two-big-institutions-triggered-the-crash/",
+      "source": "Forbes"
+    }
+  ]
+}
+
+Scraping Forbes Breaking News...
+{
+  "forbesBreaking": [
+    {
+      "headline": "AI’s Nuanced Impact And A Quest To Quantify It",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Embracing And Bracing For AI",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Facing A Volatile Market, C-Suites Look To The CFO For Strategic Guidance",
+      "url": "https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Next Billion-Dollar Startups 2025",
+      "url": "https://www.forbes.com/sites/amyfeldman/2025/08/12/next-billion-dollar-startups-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Four Reasons To Rethink Your Savings Strategy",
+      "url": "https://www.forbes.com/sites/insights-synchrony-bank/2025/10/13/four-reasons-to-rethink-your-savings-strategy/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Meet The Young Tech Trailblazers Building a New Future for Language, Learning and Medicine",
+      "url": "https://www.forbes.com/sites/bellasayegh/2025/10/20/meet-the-young-tech-trailblazers-building-a-new-future-for-language-learning-and-medicine/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "America's Most Powerful Women In Sports",
+      "url": "https://www.forbes.com/sites/maggiemcgrath/2025/10/22/americas-most-powerful-women-in-sports-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Stand Together BrandVoice",
+      "url": "https://www.forbes.com/sites/stand-together/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Dell Technologies BrandVoice",
+      "url": "https://www.forbes.com/sites/delltechnologies",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Dick's Sporting Goods",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/dicks-sporting-goods-coupons/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Editorial Values and Standards",
+      "url": "https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Northern Lights Forecast: Here’s You Could See Northern Lights Thursday",
+      "url": "http://www.forbes.com/sites/zacharyfolk/2025/11/20/northern-lights-forecast-heres-you-could-see-northern-lights-thursday/?ctpv=notifications-breakingnews",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Trump’s History With Jeffrey Epstein: Here’s The Full Timeline",
+      "url": "http://www.forbes.com/sites/saradorn/2025/11/20/trumps-history-with-jeffrey-epstein-heres-the-full-timeline/?ctpv=notifications-dailycoverstory",
+      "source": "Forbes"
+    },
+    {
+      "headline": "When Could Epstein Files Be Released?",
+      "url": "http://www.forbes.com/sites/alisondurkee/2025/11/20/when-will-the-epstein-files-be-released-heres-a-possible-timeline/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Traveling Without REAL ID?",
+      "url": "http://www.forbes.com/sites/suzannerowankelleher/2025/11/20/tsa-proposes-air-passengers-without-real-id-biometric-scan/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "CBO Lowers Tariff Savings Estimate By $1T",
+      "url": "http://www.forbes.com/sites/antoniopequenoiv/2025/11/20/congressional-budget-office-lowers-tariff-savings-estimate-by-1-trillion/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Formula 1’s Most Valuable Teams",
+      "url": "http://www.forbes.com/sites/brettknight/2025/11/20/formula-1s-most-valuable-teams-2025/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Crypto Slide Continues",
+      "url": "http://www.forbes.com/sites/siladityaray/2025/11/21/crypto-slide-continues-as-bitcoin-slips-below-84000-lowest-since-mid-april/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "Bitcoin Slips Below $84,000 As Crypto Slump Continues",
+      "url": "http://www.forbes.com/sites/siladityaray/2025/11/21/crypto-slide-continues-as-bitcoin-slips-below-84000-lowest-since-mid-april/",
+      "source": "Forbes"
+    },
+    {
+      "headline": "CBO Lowers Tariff Fiscal Savings Estimate By $1 Trillion",
+      "url": "http://www.forbes.com/sites/antoniopequenoiv/2025/11/20/congressional-budget-office-lowers-tariff-savings-estimate-by-1-trillion/",
+      "source": "Forbes"
+    }
+  ]
+}

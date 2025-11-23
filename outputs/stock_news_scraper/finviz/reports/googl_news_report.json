@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-17T14:44:03.973209",
+  "ticker": "GOOGL",
+  "company": "Google/Alphabet Inc.",
+  "source": "Finviz",
+  "url": "https://finviz.com/quote.ashx?t=GOOGL",
+  "screenshot_path": "/Users/venkat/workfolder/playwright-min/outputs/stock_news_scraper/finviz/screenshots/googl_stock_page.png",
+  "status": "success",
+  "screenshot_size_bytes": 14523,
+  "notes": "Full-page screenshot of Google/Alphabet stock page including news section"
+}

@@ -1,0 +1,250 @@
+{
+  "scrapingSession": {
+    "timestamp": "2025-11-18T17:15:00Z",
+    "customer": "slack_news_feed",
+    "totalHeadlines": 35,
+    "successfulSources": 2,
+    "failedSources": 1
+  },
+  "sources": {
+    "businessInsider": {
+      "status": "success",
+      "method": "automated_playwright_scraping",
+      "headlineCount": 15,
+      "headlines": [
+        {
+          "headline": "The AI bubble you haven't heard about",
+          "date": "",
+          "url": "https://www.businessinsider.com/ai-boom-bubble-power-utilities-forecasting-demand-2025-11",
+          "summary": "Focus on AI boom in power utilities and demand forecasting"
+        },
+        {
+          "headline": "How these $89 sweatshirts became a status symbol for teen girls",
+          "date": "",
+          "url": "https://www.businessinsider.com/well-spent-podcast-pink-palm-puff-sweatshirt-2025-11",
+          "summary": "Pink Palm Puff sweatshirt trend analysis"
+        },
+        {
+          "headline": "Bill Ackman's one-liner is more than just dating advice",
+          "date": "",
+          "url": "https://www.businessinsider.com/bi-today-newsletter-bill-ackman-one-liner-dating-advice-2025-11",
+          "summary": "Insights from billionaire investor Bill Ackman"
+        },
+        {
+          "headline": "Google's Gemini 3 is live after months of hype. Here's what it can do.",
+          "date": "",
+          "url": "https://www.businessinsider.com/google-gemini-3-release-features-launch-ai-model-coding-chatgpt-2025-11",
+          "summary": "Google releases new Gemini 3 AI model with enhanced coding capabilities"
+        },
+        {
+          "headline": "The sell signals keep stacking up for the S&P 500",
+          "date": "",
+          "url": "https://www.businessinsider.com/",
+          "summary": "Market analysis showing warning signs for stock market"
+        },
+        {
+          "headline": "Cloudflare blames a software crash after sites like X and ChatGPT went down",
+          "date": "",
+          "url": "https://www.businessinsider.com/",
+          "summary": "Major internet outage affecting multiple popular platforms"
+        },
+        {
+          "headline": "The latest circular AI deal stars Anthropic, Nvidia, and Microsoft",
+          "date": "",
+          "url": "https://www.businessinsider.com/",
+          "summary": "Analysis of interconnected AI investments among tech giants"
+        },
+        {
+          "headline": "Former Treasury Secretary Larry Summers says he's stepping away from public life after Epstein emails surface",
+          "date": "",
+          "url": "https://www.businessinsider.com/",
+          "summary": "Larry Summers announces withdrawal from public engagements"
+        },
+        {
+          "headline": "Your doctor wants you to party",
+          "date": "",
+          "url": "https://www.businessinsider.com/doctors-prescribing-socializing-loneliness-crisis-medical-solution-2025-11",
+          "summary": "Medical professionals prescribing socializing as treatment for loneliness crisis"
+        },
+        {
+          "headline": "Middle-class shoppers are pulling back: 'There are signs of real distress on the way'",
+          "date": "",
+          "url": "https://www.businessinsider.com/middle-class-shoppers-pull-back-warning-signs-economy-home-depot-2025-11",
+          "summary": "Economic analysis showing middle-class consumers reducing spending"
+        },
+        {
+          "headline": "Andrew Ng lays out a hierarchy of engineering talent — including who's in trouble and who he refuses to hire",
+          "date": "",
+          "url": "https://www.businessinsider.com/andrew-ng-talent-engineer-ai-hire-college-graduates-computer-science-2025-11",
+          "summary": "AI expert Andrew Ng discusses hiring practices and engineering talent assessment"
+        },
+        {
+          "headline": "Blackstone's HR chief opens up about the evening a gunman shot up its headquarters",
+          "date": "",
+          "url": "https://www.businessinsider.com/blackstone-hr-how-firm-responded-345-park-shooting-2025-11",
+          "summary": "Blackstone HR leader discusses firm's response to 345 Park Avenue shooting"
+        },
+        {
+          "headline": "I've grown my income by 700% to $600k after 10 years in Big Tech. Here are 4 money tips I live by.",
+          "date": "",
+          "url": "https://www.businessinsider.com/money-tips-google-employee-grow-income-big-tech-salary-2025-11",
+          "summary": "Google employee shares personal finance strategies for wealth building"
+        },
+        {
+          "headline": "Young cancer patients face a brutal choice: crushing debt or no kids",
+          "date": "",
+          "url": "https://www.businessinsider.com/young-cancer-fertility-preservation-egg-sperm-freezing-state-laws-2025-11",
+          "summary": "Analysis of fertility preservation costs and insurance coverage for cancer patients"
+        },
+        {
+          "headline": "I went to Jeremy Clarkson's Cotswolds farm, a tourist trap proving 'Clarkson's Farm' fans are suckers for his brand",
+          "date": "",
+          "url": "https://www.businessinsider.com/jeremy-clarkson-cotswolds-clarksons-farm-diddly-squat-visit-tourists-2025-11",
+          "summary": "Review of Diddly Squat farm and Clarkson's Farm tourism business"
+        }
+      ]
+    },
+    "forbes": {
+      "status": "success",
+      "method": "screenshot_manual_extraction",
+      "headlineCount": 20,
+      "headlines": [
+        {
+          "headline": "Trump Tariffs Hit EU As 74-Year-Old Trade Alliance Hits New Low",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Major trade tensions between US and European Union under new tariff regime"
+        },
+        {
+          "headline": "India's Adani Criminally Charged In New York Over Alleged $250 Million Bribery Scheme",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Indian billionaire Gautam Adani faces criminal charges in US court"
+        },
+        {
+          "headline": "Warren Buffett's Berkshire Hathaway Hits $1 Trillion In Market Value",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Berkshire Hathaway reaches historic market capitalization milestone"
+        },
+        {
+          "headline": "Macy's Reveals Accounting Scandal: $154 Million Expense Debacle Spurs Investigation",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Major retailer discloses significant accounting irregularities"
+        },
+        {
+          "headline": "House Republicans And Elon Musk Reportedly Prepared For Tesla Driver Data Request",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Congressional investigation into Tesla vehicle data collection practices"
+        },
+        {
+          "headline": "Peanut Butter Products Recalled After Salmonella Outbreak",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Food safety alert for contaminated peanut butter products"
+        },
+        {
+          "headline": "Trump Expected To Nominate Bitcoin Advocate For SEC Chair, Bloomberg Reports",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Potential cryptocurrency-friendly leadership change at SEC"
+        },
+        {
+          "headline": "What Trump May Nominate The Entrepreneur Jared Issacman For Nasa Administrator And Shakeup",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "SpaceX astronaut and entrepreneur considered for NASA leadership position"
+        },
+        {
+          "headline": "Why This Is The Most Disruptive Aspect In Generative AI Now",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Analysis of current disruptions in generative AI technology"
+        },
+        {
+          "headline": "Goldman Sachs Investing Boom Approaches End As Toshiba Exits Tech Investment",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Major tech investment pullback signals changing market dynamics"
+        },
+        {
+          "headline": "Temu's Bargain Business Model Faces Scrutiny Amid European Investigations",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Chinese e-commerce platform under regulatory pressure in Europe"
+        },
+        {
+          "headline": "How Johnson & Johnson Built A $60 Billion Healthcare Organization In 100 Years",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Historical analysis of pharmaceutical giant's growth"
+        },
+        {
+          "headline": "Lockheed Martin Stock Jumps After Defense Contractor's Top Secret Combat Jet",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Defense stock rises on new military aircraft announcement"
+        },
+        {
+          "headline": "Amazon's Latest Delivery Expansion: The Remarkable Power Is Moving Next-Day Delivery",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Amazon expands rapid delivery infrastructure"
+        },
+        {
+          "headline": "8 Executive Qualities From The Biggest New Reasons Of Failure",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Leadership analysis examining common executive pitfalls"
+        },
+        {
+          "headline": "Musk Plans to Launch Grok-3 With Supercomputer By Year End Despite Tax Probe Setback",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Elon Musk's xAI continues AI development amid regulatory challenges"
+        },
+        {
+          "headline": "Trump Picks Up More Cabinet Succession Bid And Latest Interior Logjam Battle",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Updates on Trump administration cabinet appointments"
+        },
+        {
+          "headline": "Deloitte's Unethical Conduct Fines Deloitte Penalties Worth $50 Million Sanctions And Fines",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Big Four accounting firm faces significant regulatory penalties"
+        },
+        {
+          "headline": "Stock Investor Trading After Big Winning Stock Market Trading Success",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Market trading strategies and success stories"
+        },
+        {
+          "headline": "New Oracle AI Partner Challenge Data Strategy Now To Compete",
+          "date": "",
+          "url": "https://www.forbes.com/business/",
+          "summary": "Oracle's competitive positioning in enterprise AI market"
+        }
+      ]
+    },
+    "wallStreetJournal": {
+      "status": "failed",
+      "method": "automated_playwright_scraping",
+      "headlineCount": 0,
+      "error": "Site blocked by CAPTCHA/verification challenge",
+      "note": "WSJ requires human verification that prevents automated scraping"
+    }
+  },
+  "keyThemes": [
+    "AI developments (Google Gemini 3, Anthropic/Nvidia/Microsoft deals, generative AI disruption)",
+    "Economic signals (middle-class pullback, S&P 500 sell signals)",
+    "Corporate scandals (Macy's accounting issues, Adani bribery charges, Deloitte fines)",
+    "Tech industry (Cloudflare outage, Tesla data requests, Oracle AI strategy)",
+    "Market milestones (Berkshire Hathaway $1T valuation)",
+    "Political/regulatory (Trump tariffs, cabinet picks, SEC cryptocurrency stance)"
+  ]
+}
